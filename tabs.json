@@ -11,7 +11,7 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://github.com/jhonatan-dev/Mavo-tabs/tree/master/assets/undraw_research.svg"
+				"image": "https://jhonatan-dev.github.io/Mavo-tabs/assets/undraw_research.svg"
 			}
 		},
 		{
@@ -23,7 +23,7 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://github.com/jhonatan-dev/Mavo-tabs/tree/master/assets/undraw_planning.svg"
+				"image": "https://jhonatan-dev.github.io/Mavo-tabs/assets/undraw_planning.svg"
 			},
 			"open": false
 		},
@@ -36,7 +36,7 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://github.com/jhonatan-dev/Mavo-tabs/tree/master/assets/undraw_production.svg"
+				"image": "https://jhonatan-dev.github.io/Mavo-tabs/assets/undraw_production.svg"
 			},
 			"open": false
 		},
@@ -49,7 +49,7 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://github.com/jhonatan-dev/Mavo-tabs/tree/master/assets/undraw_testing.svg"
+				"image": "https://jhonatan-dev.github.io/Mavo-tabs/assets/undraw_testing.svg"
 			},
 			"open": false
 		},
@@ -62,7 +62,7 @@
 				"text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quibusdam consequuntur corporis reprehenderit repudiandae eveniet animi recusandae! Architecto, sequi explicabo, dignissimos id minima perspiciatis accusamus sapiente dolores voluptas magnam suscipit. Quo!",
 				"url": "#",
 				"destination": "Details",
-				"image": "https://github.com/jhonatan-dev/Mavo-tabs/tree/master/assets/undraw_result.svg"
+				"image": "https://jhonatan-dev.github.io/Mavo-tabs/assets/undraw_result.svg"
 			},
 			"open": false
 		}

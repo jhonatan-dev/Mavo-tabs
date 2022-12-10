@@ -14,7 +14,9 @@
 *::after {
 	box-sizing: border-box;
 }
-
+.mv-bar.mv-ui {
+	display: none;
+}
 body {
 	display: flex;
 	flex-direction: column;
@@ -35,7 +37,7 @@ body {
 	margin-bottom: 50px;
 	margin-left: auto;
 	margin-right: auto;
-	.block {
+	[property="block"] {
 		background-color: white;
 		border-radius: 0.5em;
 		box-shadow: 0 20px 35px -5px rgba(0, 0, 0, 0.1),
@@ -44,7 +46,7 @@ body {
 	}
 }
 
-.content .block > [property="headline"] {
+.content [property="block"] > [property="headline"] {
 	margin: 0;
 	padding: 1em;
 	text-align: center;
@@ -341,7 +343,7 @@ section.search {
 	section.search {
 		padding: 20px;
 	}
-	.content .block {
+	.content [property="block"] {
 		border-radius: 0px;
 		box-shadow: none;
 	}
@@ -395,7 +397,7 @@ section.search {
 	section.search {
 		padding: 20px;
 	}
-	.content .block {
+	.content [property="block"] {
 		border-radius: 0px;
 		box-shadow: none;
 	}

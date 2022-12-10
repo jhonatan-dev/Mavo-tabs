@@ -1,1 +1,1 @@
-# mavo-tabs-widget
+# Mavo-tabs-widget

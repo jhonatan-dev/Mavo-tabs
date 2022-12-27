@@ -60,7 +60,7 @@
 				},
 				"content": {
 					"headline": "Vocabulary",
-					"text": "<b>Size of the text</b>:&nbsp;&nbsp;&nbsp;<br><b>List of keywords matching the curriculum</b>:&nbsp;&nbsp;&nbsp;<br><b>List of difficult words</b>:&nbsp;&nbsp;&nbsp;<br><b>Exact curriculum keywords</b>:&nbsp;&nbsp;&nbsp;<br><b>Synonyms of keywords used</b>:&nbsp;&nbsp;&nbsp;",
+					"text": "<ul><li><b>Size of the text</b>: 100</li><b>List of keywords matching the curriculum</b>:&nbsp;&nbsp;&nbsp;<br><b>List of difficult words</b>:&nbsp;&nbsp;&nbsp;<br><b>Exact curriculum keywords</b>:&nbsp;&nbsp;&nbsp;<br><b>Synonyms of keywords used</b>:&nbsp;&nbsp;&nbsp;</ul>",
 					"url": "#",
 					"destination": "Details",
 					"video": "v0REKwTrjfw"
